@@ -1,6 +1,9 @@
 require ( './helpers.js' );
 
-const helpers = require('./helpers')
+describe('The payroll system', function () {
+  // Add your tests here
+});
+
 
 describe("The payroll system", function () {
   describe("populates a record from an Array", function () {
